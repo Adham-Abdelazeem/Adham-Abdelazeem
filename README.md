@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Adham-Abdelazeem a Biomedical Engineering Master's Student.
-- 👀 I’m interested in Artificial intelligence, especially Machine Learning & Deep Learning.
-- 🌱 I’m currently learning Machine Learning Algorithms and Python libraries.
+- 👀 I’m interested in Artificial intelligence, especially Machine Learning.
+- 🌱 I’m currently learning Terraform, Azure, Docker and Kubernetes.
 - 📫 How to reach me www.linkedin.com/in/adham-abdelazeem
