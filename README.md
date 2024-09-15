@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Adham-Abdelazeem a Biomedical Engineering Master's Student.
+- 👋 Hi, I’m @Adham-Abdelazeem a Data Scientist | Machine Learning Engineer.
+- With a Master's degree in Biomedical Engineering. 
 - 👀 I’m interested in Artificial intelligence, especially Machine Learning.
 - 🌱 I’m currently learning Terraform, Azure, Docker and Kubernetes.
 - 📫 How to reach me www.linkedin.com/in/adham-abdelazeem
